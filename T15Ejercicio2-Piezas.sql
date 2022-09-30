@@ -1,0 +1,10 @@
+INSERT INTO ta14_ejercicio8.piezas (Nombre) VALUES ('CPU');
+INSERT INTO ta14_ejercicio8.piezas (Nombre) VALUES ('Placa Base');
+INSERT INTO ta14_ejercicio8.piezas (Nombre) VALUES ('Refigecacion');
+INSERT INTO ta14_ejercicio8.piezas (Nombre) VALUES ('Ventilador');
+INSERT INTO ta14_ejercicio8.piezas (Nombre) VALUES ('Disco Duro HDD');
+INSERT INTO ta14_ejercicio8.piezas (Nombre) VALUES ('Disco Duro SDD');
+INSERT INTO ta14_ejercicio8.piezas (Nombre) VALUES ('Refrigeracion');
+INSERT INTO ta14_ejercicio8.piezas (Nombre) VALUES ('Teclado');
+INSERT INTO ta14_ejercicio8.piezas (Nombre) VALUES ('Raton');
+INSERT INTO ta14_ejercicio8.piezas (Nombre) VALUES ('Pantalla');

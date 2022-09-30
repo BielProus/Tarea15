@@ -1,0 +1,10 @@
+INSERT INTO ta14_ejercicio8.proveedores VALUES ('RZO1','Razer');
+INSERT INTO ta14_ejercicio8.proveedores VALUES ('LO02','Logitech');
+INSERT INTO ta14_ejercicio8.proveedores VALUES ('IN03','Intel');
+INSERT INTO ta14_ejercicio8.proveedores VALUES ('AD04','AMD');
+INSERT INTO ta14_ejercicio8.proveedores VALUES ('NV05','NVIDIA');
+INSERT INTO ta14_ejercicio8.proveedores VALUES ('AC06','AeroCool');
+INSERT INTO ta14_ejercicio8.proveedores VALUES ('TR07','Trust');
+INSERT INTO ta14_ejercicio8.proveedores VALUES ('HP08','HP');
+INSERT INTO ta14_ejercicio8.proveedores VALUES ('AS09','Asus');
+INSERT INTO ta14_ejercicio8.proveedores VALUES ('KG10','KromGaming');

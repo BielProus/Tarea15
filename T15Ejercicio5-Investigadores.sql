@@ -1,0 +1,10 @@
+INSERT INTO ta14_ejercicio11.investigadores VALUES ('3467342B','Jose Luis Segui',10);
+INSERT INTO ta14_ejercicio11.investigadores VALUES ('1328462V','Victoria Guillen Torres',5);
+INSERT INTO ta14_ejercicio11.investigadores VALUES ('6737322T','Jordi Barreiro Cabrera',6);
+INSERT INTO ta14_ejercicio11.investigadores VALUES ('1253635G','Sara Piñero Espinosa',2);
+INSERT INTO ta14_ejercicio11.investigadores VALUES ('3334262V','Jose Manuel Carrion',9);
+INSERT INTO ta14_ejercicio11.investigadores VALUES ('7857578N','Pedro Javier Blasco',4);
+INSERT INTO ta14_ejercicio11.investigadores VALUES ('2187321M','Judit Lillo Rovira',7);
+INSERT INTO ta14_ejercicio11.investigadores VALUES ('3297438F','Pol Lujan Caceres',8);
+INSERT INTO ta14_ejercicio11.investigadores VALUES ('2315636R','Maria Inmaculada Riera',3);
+INSERT INTO ta14_ejercicio11.investigadores VALUES ('2433524S','Sandra Maria Parada',1);

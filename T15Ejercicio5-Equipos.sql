@@ -1,0 +1,10 @@
+INSERT INTO ta14_ejercicio11.equipos VALUES ('EQ01','El Tarragones',3);
+INSERT INTO ta14_ejercicio11.equipos VALUES ('EQ02','El Vinyar ',8);
+INSERT INTO ta14_ejercicio11.equipos VALUES ('EQ03','Treball en equip',10);
+INSERT INTO ta14_ejercicio11.equipos VALUES ('EQ04','Els Reusencs',1);
+INSERT INTO ta14_ejercicio11.equipos VALUES ('EQ05','Els Camions',2);
+INSERT INTO ta14_ejercicio11.equipos VALUES ('EQ06','La Facultad',6);
+INSERT INTO ta14_ejercicio11.equipos VALUES ('EQ07','Els Investigadors',4);
+INSERT INTO ta14_ejercicio11.equipos VALUES ('EQ08','Orgull de Granada',7);
+INSERT INTO ta14_ejercicio11.equipos VALUES ('EQ09','Sevillans',5);
+INSERT INTO ta14_ejercicio11.equipos VALUES ('EQ10','Els Destructors',9);

@@ -1,0 +1,10 @@
+INSERT INTO ta14_ejercicio8.suministra VALUES (7,'RZO1',59);
+INSERT INTO ta14_ejercicio8.suministra VALUES (1,'IN03',125);
+INSERT INTO ta14_ejercicio8.suministra VALUES (3,'AC06',80);
+INSERT INTO ta14_ejercicio8.suministra VALUES (10,'HP08',239);
+INSERT INTO ta14_ejercicio8.suministra VALUES (4,'RZO1',122);
+INSERT INTO ta14_ejercicio8.suministra VALUES (5,'TR07',65);
+INSERT INTO ta14_ejercicio8.suministra VALUES (2,'AD04',500);
+INSERT INTO ta14_ejercicio8.suministra VALUES (8,'KG10',49);
+INSERT INTO ta14_ejercicio8.suministra VALUES (7,'LO02',169);
+INSERT INTO ta14_ejercicio8.suministra VALUES (10,'TR07',259);
